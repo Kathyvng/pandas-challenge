@@ -116,3 +116,5 @@ Scores by School Type
 Use the per_school_summary DataFrame to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+Code Source: Xpert learning assistant
+](https://bootcampspot.instructure.com/courses/6252/external_tools/313)](https://bootcampspot.instructure.com/courses/6252/external_tools/313)](https://bootcampspot.instructure.com/courses/6252/external_tools/313)
